@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Aksh teje</h1>
+<h1 align="center">Hi 👋, I'm Aksh tejwani</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
