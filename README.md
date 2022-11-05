@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://tejwaniaksh.github.io/CV/)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://tejwaniaksh.github.io/CV/)
 
 
 
@@ -6,24 +6,11 @@
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejwaniaksh&label=Profile%20views&color=0e75b6&style=flat" alt="tejwaniaksh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejwaniaksh" alt="tejwaniaksh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tejwaniaksh" target="blank"><img src="https://img.shields.io/twitter/follow/tejwaniaksh?logo=twitter&style=for-the-badge" alt="tejwaniaksh" /></a> </p>
-
-- 🌱 I’m currently learning **nodejs and flutter**
-
-- 📝 I regularly write articles on [akshtejwani.me](akshtejwani.me)
-
-- 💬 Ask me about **css,bootstrap**
-
-- 📫 How to reach me **Gryffindor_Seeker@gmail.com**
-
-- 📄 Know about my experiences [https://tejwaniaksh.github.io/CV/](https://tejwaniaksh.github.io/CV/)
-
-- ⚡ Fun fact **I can't survive without COFFEE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
